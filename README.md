@@ -1,5 +1,5 @@
 # priUTR pipeline
-Detect alternative 3UTR based on RNA-Seq 
+Detect alternative 3' UTR in plants using RNA-seq data 
 
 priUTR pipeline is developed in Scientific Linux release 6.10 (Carbon). This pipeline is based on Linux shell scripts, therefore it requires a 64-bit CPU computer running on Linux system. 5-50GB running RAM is recommended depending on data size. And this pipeline was tested with the following version of the programs: 
 -- samtools Version 1.3.1, 
