@@ -19,8 +19,10 @@ GNU General Public License v3.0
 1.	Introduction of the priUTR pipeline -- Detect alternative 3' UTR in plants using RNA-seq data 
 
 priUTR pipeline is developed in Scientific Linux release 6.10 (Carbon). This pipeline is based on Linux shell scripts, it requires a 64-bit CPU computer running on Linux system. 5-50GB running RAM is recommended depending on data size. To make full use of standard RNA-seq data and to provide user-friendly 3’UTR analysis function for many non-model plant species and plant biologists who may have limited bioinformatic skills, the priUTR pipeline can detect alternative 3’UTRs in comparison to the reference genome annotation and provide information regarding the identified alternative 3’UTRs. 
+
 2.	Workflow of priUTR and upstream RNA-seq analysis pipeline
  
+ ![imgae](priUTR workflow.png)
 Figure 1. Workflow of the priUTR and upstream RNA-seq analysis pipeline. 
 
 
