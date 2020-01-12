@@ -11,6 +11,7 @@ Waksman Institute of Microbiology, Rutgers, The State University of New Jersey, 
 Citation
 ----
 Please cite the following artile when using “priUTR”:
+
 Min Tu, Yin Li, Yaping Feng, Dibyendu Kumar. (2020) priUTR pipeline identifies alternative 3’UTRs and provides insights into their regulation in maize endosperm. (in submission)
 
 License
