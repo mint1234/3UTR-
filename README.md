@@ -24,7 +24,7 @@ priUTR pipeline is developed in Scientific Linux release 6.10 (Carbon). This pip
 Figure 1. Workflow of the priUTR and upstream RNA-seq analysis pipeline. 
 
 
-3.  Environment and dependencies
+2.  Environment and dependencies
 
 -- samtools Version 1.3.1, http://www.htslib.org 
 -- bedtools v2.24.0, https://bedtools.readthedocs.io/en/latest/ 
