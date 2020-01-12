@@ -68,11 +68,18 @@ For further information, please contact with mintu@waksman.rutgers.edu.
 7.	References
 
 Trapnell C, Roberts A, Goff L, Pertea G, Kim D, Kelley DR, Pimentel H, Salzberg SL, Rinn JL, Pachter L. (2012) Differential gene and transcript expression analysis of RNA-seq experiments with TopHat and Cufflinks. Nature Protocol. 7(3): 562-578. 
+
 Trapnell C, Hendrickson DG, Sauvageau M, Goff L, Rinn JL, Pachter L. (2013) Differential analysis of gene regulation at transcript resolution with RNA-seq. Nature Biotechnology. 31, 46–53. 
+
 Tophat website: http://ccb.jhu.edu/software/tophat/index.shtml 
+
 Cufflinks website: http://cole-trapnell-lab.github.io/cufflinks/manual/ 
+
 Cufflinks github website: https://github.com/cole-trapnell-lab/cufflinks
+
 Wu X, Liu M, Downie B, Liang C, Ji G, Li QQ, Hunt AG. (2011) Genome-wide landscape of polyadenylation in Arabidopsis provides evidence for extensive alternative polyadenylation. Proc. Natl. Acad. Sci. USA，108, 12533- 12538. 
 Jafar Z, Tarig S, Sadiq I, Nawaz T, Akhtar MN. (2019) Genome-Wide Profiling of Polyadenylation Events in Maize Using High-Throughput Transcriptomic Sequences. G3: Genes, Genomes, Genetics. 9, 2749-2760. 
+
 Ye C, Long Y, Ji G, Li QQ, Wu X. (2018) APAtrap: identification and quantification of alternative polyadenylation sites from RNA-seq data. Bioinformatics, 34, 1841-1849. 
+
 Arefeen A, Liu J, Xiao X, Jiang T. (2018) TAPAS: tool for alternative polyadenylation site analysis. Bioinformatics, 34, 2521- 2529. 
