@@ -22,7 +22,8 @@ priUTR pipeline is developed in Scientific Linux release 6.10 (Carbon). This pip
 
 2.	Workflow of priUTR and upstream RNA-seq analysis pipeline
  
- ![imgae](priUTR workflow.png)
+ ![imgae](https://github.com/mint1234/3UTR-/blob/master/priUTR%20workflow.png)
+ 
 Figure 1. Workflow of the priUTR and upstream RNA-seq analysis pipeline. 
 
 
