@@ -21,18 +21,18 @@ GNU General Public License v3.0
 User manual
 ----
 
-#### 1.	Introduction of the priUTR pipeline -- Detect alternative 3' UTR in plants using RNA-seq data
+### 1.	Introduction of the priUTR pipeline -- Detect alternative 3' UTR in plants using RNA-seq data
 
 
 priUTR pipeline is developed in Scientific Linux release 6.10 (Carbon). This pipeline is based on Linux shell scripts, it requires a 64-bit CPU computer running on Linux system. 5-50GB running RAM is recommended depending on data size. To make full use of standard RNA-seq data and to provide user-friendly 3’UTR analysis function for many non-model plant species and plant biologists who may have limited bioinformatic skills, the priUTR pipeline can detect alternative 3’UTRs in comparison to the reference genome annotation and provide information regarding the identified alternative 3’UTRs. 
 
-#### 2.	Workflow of priUTR and upstream RNA-seq analysis pipeline
+### 2.	Workflow of priUTR and upstream RNA-seq analysis pipeline
 
  ![imgae](https://github.com/mint1234/3UTR-/blob/master/priUTR%20workflow.png)
  
 Figure 1. Workflow of the priUTR and upstream RNA-seq analysis pipeline. 
 
-#### 3.  Environment and dependencies
+### 3.  Environment and dependencies
 
 -- samtools Version 1.3.1, http://www.htslib.org 
 -- bedtools v2.24.0, https://bedtools.readthedocs.io/en/latest/ 
@@ -43,11 +43,11 @@ Figure 1. Workflow of the priUTR and upstream RNA-seq analysis pipeline.
 -- exteractFromFasta.pl: https://github.com/jonbra/NGSAbel/blob/master/scripts/extractFromFasta.pl 
 -- qsub Version 3.0.4: http://docs.adaptivecomputing.com/torque/2-5- 12/help.htm#topics/commands/qsub.htm 
 
-#### 4.	Input and Output
+### 4.	Input and Output
 
 Example input and output files can be downloaded from Waksman Institute of Microbiology, Rugters, The State University of New jersey (https://data.waksman.rutgers.edu/200106-3utr/).
 
-#### 5.	Usage
+### 5.	Usage
 
 5.1	Download priUTR pipeline from the following Github website (https://github.com/mint1234/3UTR-).
 
@@ -63,12 +63,12 @@ Example input and output files can be downloaded from Waksman Institute of Micro
 
 5.7	The “2nd-SN” folder contains all the secondary structure plots that are predicted for the priUTR- identified alternative 3’UTR sequences by RNAfold from the ViennaRNA package with minimum free energy. For the predicted secondary structures of alternative 3’UTRs, please also see the example output files available at Waksman Institute (folder namely “2nd- Endosperm_16DAP” and “2nd-Endosperm_20DAP” at link: https://data.waksman.rutgers.edu/200106-3utr/) 
 
-#### 6.	Issues and bug reports
+### 6.	Issues and bug reports
 
 Please use https://github.com/mint1234/3UTR-/issues to submit issues, bug reports, and comments.
 For further information, please contact with mintu@waksman.rutgers.edu.
 
-#### 7.	References
+### 7.	References
 
 Trapnell C, Roberts A, Goff L, Pertea G, Kim D, Kelley DR, Pimentel H, Salzberg SL, Rinn JL, Pachter L. (2012) Differential gene and transcript expression analysis of RNA-seq experiments with TopHat and Cufflinks. Nature Protocol. 7(3): 562-578. 
 
